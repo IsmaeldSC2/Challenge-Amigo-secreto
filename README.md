@@ -1,4 +1,8 @@
-# 🎁 Amigo Secreto  
+
+<img width="1250" height="625" alt="Programação-Challenge Amigo Secreto-Versão Oline  (1)" src="https://github.com/user-attachments/assets/cc9ad224-3915-46d0-88f9-2bd84c9b57dc" />
+
+# 🎁 Amigo Secreto
+👉 **[Acesse o projeto online](https://ismaeldsc2.github.io/Challenge-Amigo-secreto/)**  
 
 Aplicação desenvolvida no **Challenge Amigo Secreto** da formação **ONE - Oracle Next Education**.  
 O objetivo é praticar **JavaScript, HTML e CSS** criando uma aplicação simples para **sortear amigos secretos**.  
@@ -54,12 +58,9 @@ O objetivo é praticar **JavaScript, HTML e CSS** criando uma aplicação simple
 
 ---
 
-⚠️ **Observação Importante:**
-O projeto já está com todo o código disponível neste repositório. Devido a um problema técnico com a configuração do GitHub Pages, o site não está online neste momento.
+## 🌐 Acesse o projeto online
 
-Em breve, a versão publicada será disponibilizada neste link:
-https://ismaeldsd2.github.io/challenge-amigo-secreto/
-
-Agradeço a compreensão.
+Você pode testar a aplicação diretamente pelo GitHub Pages neste link:
+👉 **[Challenge Amigo Secreto - Versão Online](https://ismaeldsc2.github.io/Challenge-Amigo-secreto/)**
 
 👨‍💻 Desenvolvido por **Ismael dos Santos Costa**
